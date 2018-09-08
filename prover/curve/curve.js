@@ -1,7 +1,7 @@
 "use strict";
 exports.__esModule = true;
 var bigInteger_1 = require("../bigInteger/bigInteger");
-var elliptic_1 = require("../elliptic");
+var elliptic_1 = require("../elliptic/lib/elliptic");
 var buffer_1 = require("buffer");
 var utils_1 = require("../elliptic/lib/elliptic/utils");
 var ethereumjs_util_1 = require("ethereumjs-util");
